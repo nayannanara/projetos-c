@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538050973 source:c:\users\naran\onedrive\documentos\arquivosc\comvetor\comvetor\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

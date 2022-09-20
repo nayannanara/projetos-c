@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539115310 source:c:\users\naran\onedrive\documentos\arquivosc\comvetor\atividadeap2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

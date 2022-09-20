@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537215265 source:c:\users\naran\onedrive\documentos\arquivosc\teste\teste\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
